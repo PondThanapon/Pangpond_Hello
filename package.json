@@ -1,5 +1,5 @@
 {
-    "name": "Pangpond_Hello", 
+    "name": "pangpond_hello", 
     "version": "1.0.0", 
     "description": "Pangpond Hello to publish a node package to npmjs.com", 
     "main": "src/hello.js", 
@@ -12,14 +12,14 @@
     "keywords": [
       "npm",
       "Hello",
-      "iApp"
+      "pangpond"
     ],
     "author": "Thanapon",
     "license": "MIT", 
     "bugs": { 
       "url": "https://github.com/PondThanapon/Pangpond_Hello/issues"
     },
-    "homepage": "https://github.com/PondThanapon/Pangpond_Hello/README.md", 
+    "homepage": "https://github.com/PondThanapon/Pangpond_Hello/", 
     "devDependencies": { 
     }
   }
